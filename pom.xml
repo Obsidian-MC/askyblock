@@ -11,6 +11,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<!-- Where is a lib directory? How to compile this plugin on another developer machine without wasting of time? -->
 		<server.jars>${project.basedir}/lib</server.jars>
 	</properties>
 	<distributionManagement>
